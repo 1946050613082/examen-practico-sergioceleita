@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "sergio celeita",
+    "email": "sergioalejandroca@hotmail.com",
+    "password": "123456"
+  },
+  {
+    "nombre": "Laura Gómez",
+    "email": "laura@example.com",
+    "password": "abcdef"
+  }
+]
